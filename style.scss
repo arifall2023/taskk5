@@ -1,0 +1,33 @@
+$logo-color:rgb(112, 181, 245);
+$colorWelcome:rgb(243, 28, 28);
+$aboutColor:#d6e7f7;
+
+
+#contact{
+    // background-color: #8f5630;
+
+}
+footer{
+    background-color: #bb6262;
+    color: rgb(161, 87, 139);
+    height: 6rem;
+
+}
+.about{
+    background-color: $aboutColor;
+    li{
+    background-color: $aboutColor;
+
+}
+}
+.menu-category, .contact{
+    li{
+        list-style: none;
+    }
+}
+.contact-us h1{
+    font-size:4rem;
+}
+.contact-form h2{
+    font-size: 2rem;
+}
