@@ -1,15 +1,15 @@
 footer {
-  background-color: #b15f5f;
-  color: rgb(21, 116, 241);
-  height: 8rem;
+  background-color: #333;
+  color: rgb(255, 255, 255);
+  height: 6rem;
 }
 
 .about {
-  background-color: #c8a2f5;
+  background-color: #dcd6f7;
 }
 
 .about li {
-  background-color: #b66376;
+  background-color: aqua;
 }
 
 .menu-category li, .contact li {
@@ -17,10 +17,10 @@ footer {
 }
 
 .contact-us h1 {
-  font-size: 5rem;
+  font-size: 3rem;
 }
 
 .contact-form h2 {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 /*# sourceMappingURL=style.css.map */

@@ -1,5 +1,5 @@
-$logo-color:rgb(112, 181, 245);
-$colorWelcome:rgb(243, 28, 28);
+$logo-color:yellow;
+$colorWelcome:#4c4e50ab;
 $aboutColor:#d6e7f7;
 
 
@@ -8,8 +8,8 @@ $aboutColor:#d6e7f7;
 
 }
 footer{
-    background-color: #bb6262;
-    color: rgb(161, 87, 139);
+    background-color: #333;
+    color: white;
     height: 6rem;
 
 }
@@ -26,8 +26,8 @@ footer{
     }
 }
 .contact-us h1{
-    font-size:4rem;
+    font-size:3rem;
 }
 .contact-form h2{
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
